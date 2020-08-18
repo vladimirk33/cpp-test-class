@@ -1,5 +1,3 @@
-// Катенин Владимир Александрович. вариант 4.
-
 #include <iostream>
 #include "example.hpp"
 #include <set>
